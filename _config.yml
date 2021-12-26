@@ -1,14 +1,17 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Ruben Branco
+url: "https://rubenbranco.github.io"
+baseurl: "./"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
+favicon: true
+favicon_location: favicon.ico
+
+footer: no
+footer_url: "https://github.com/RubenBranco"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
@@ -17,8 +20,6 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+   link: "./"
+ - name: "CV"
+   link: "https://drive.google.com/file/d/1IkYwV90qBOrX6z_5EVxYhzMBOBnBBZLO/view"
