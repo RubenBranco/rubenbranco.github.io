@@ -10,9 +10,9 @@ tracking_id: #
 favicon: true
 favicon_location: favicon.ico
 
-footer: no
+footer: true
 footer_url: "https://github.com/RubenBranco"
-footer_text: "Page design by Ankit Sultana"
+footer_text: ""
 
 sass:
     style: compressed
