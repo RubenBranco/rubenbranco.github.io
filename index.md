@@ -6,20 +6,20 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Hi👋! I am a PhD student at the [Faculty of Sciences of the University of Lisbon](https://ciencias.ulisboa.pt/) (FCUL), conducting research at [LASIGE](https://www.lasige.pt/). I am supervised by [Professor Sara Madeira](https://saracmadeira.wordpress.com/) from FCUL and [Professor Piero Fariselli](http://www.biocomp.unibo.it/piero/) from the [Department of Medical Sciences of the University of Turin](https://dms.campusnet.unito.it/do/home.pl).
+Hi👋! I am a PhD student at the <a target="_blank" href="https://ciencias.ulisboa.pt/">Faculty of Sciences of the University of Lisbon</a> (FCUL), conducting research at <a target="_blank" href="https://www.lasige.pt/">LASIGE</a>. I am supervised by <a target="_blank" href="https://saracmadeira.wordpress.com/">Professor Sara Madeira</a> from FCUL and <a target="_blank" href="http://www.biocomp.unibo.it/piero/">Professor Piero Fariselli</a> from the <a target="_blank" href="https://dms.campusnet.unito.it/do/home.pl">Department of Medical Sciences of the University of Turin</a>.
 
-My current research focuses on improving neurodegenerative disease prognosis, with particular attention to ALS and MS, using Deep Learning. I am especially interested in learning whether these Deep Learning solutions are also robust and trustworthy ([here's a paper related to that](https://aclanthology.org/2021.emnlp-main.113/)).
+My current research focuses on improving neurodegenerative disease prognosis, with particular attention to ALS and MS, using Deep Learning. I am especially interested in learning whether these Deep Learning solutions are also robust and trustworthy (<a target="_blank" href="https://aclanthology.org/2021.emnlp-main.113/">here's a paper related to that</a>).
 
-I am interested in Deep Learning as a field overall and its applicability to many problems. I have conducted research in Natural Language Processing previously, at the [NLX-Group](http://nlx.di.fc.ul.pt/). My [Msc Dissertation](https://github.com/nlx-group/study-of-commonsense-reasoning), supervised by [Professor António Branco](http://www.di.fc.ul.pt/~ahb/) to obtain a Masters in Data Science, focused on a particular problem named [Shortcut Learning](https://www.nature.com/articles/s42256-020-00257-z), specifically when learning commonsense reasoning.
+I am interested in Deep Learning as a field overall and its applicability to many problems. I have conducted research in Natural Language Processing previously, at the <a target="_blank" href="http://nlx.di.fc.ul.pt/">NLX-Group</a>. My <a target="_blank" href="https://github.com/nlx-group/study-of-commonsense-reasoning">Msc Dissertation</a>, supervised by <a target="_blank" href="http://www.di.fc.ul.pt/~ahb/">Professor António Branco</a> to obtain a Masters in Data Science, focused on a particular problem named <a target="_blank" href="https://www.nature.com/articles/s42256-020-00257-z">Shortcut Learning</a>, specifically when learning commonsense reasoning.
 
-For a more thorough and structured description of my work, you may check [my CV](https://drive.google.com/file/d/1IkYwV90qBOrX6z_5EVxYhzMBOBnBBZLO/view).
+For a more thorough and structured description of my work, you may check <a target="_blank" href="https://drive.google.com/file/d/1IkYwV90qBOrX6z_5EVxYhzMBOBnBBZLO/view">my CV</a>.
 
 <p align="center">
 Links:
-  <a href="https://scholar.google.pt/citations?user=7nC30zwAAAAJ"><i class="fas fa-graduation-cap"></i></a> ⚭
-  <a href="https://orcid.org/0000-0002-8126-8513"><i class="fab fa-orcid"></i></a> ⚭
-  <a href="https://github.com/RubenBranco/"><i class="fab fa-github"></i></a> ⚭
-  <a href="https://www.linkedin.com/in/ruben-branco-2141641a1/"><i class="fab fa-linkedin"></i></a>
+  <a target="_blank" href="https://scholar.google.pt/citations?user=7nC30zwAAAAJ"><i class="fas fa-graduation-cap"></i></a> ⚭
+  <a target="_blank" href="https://orcid.org/0000-0002-8126-8513"><i class="fab fa-orcid"></i></a> ⚭
+  <a target="_blank" href="https://github.com/RubenBranco/"><i class="fab fa-github"></i></a> ⚭
+  <a target="_blank" href="https://www.linkedin.com/in/ruben-branco-2141641a1/"><i class="fab fa-linkedin"></i></a>
 </p>
 
 ## Research Interests
