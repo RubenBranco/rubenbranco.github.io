@@ -5,7 +5,7 @@ baseurl: "./"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+tracking_id: UA-104489558-5
 
 favicon: true
 favicon_location: favicon.ico
