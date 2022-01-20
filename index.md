@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Ruben Branco
 ---
 
 ## About Me
