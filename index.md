@@ -36,6 +36,12 @@ I am interested in many topics beyond these (like Physics, Psychology, etc.) and
 
 ## 2021/2022
 
+### Intelligent Systems, Faculty of Sciences of the University of Lisbon
+
+Teaching Theoretical-Pratical classes, offered to different bachelor degrees within the Faculty, in the 2nd Semester.
+
+Class covers Artificial Intelligence Fundamentals, such as search algorithms, going all the way to Machine Learning Fundamentals.
+
 ### Advanced Machine Learning, Faculty of Sciences of the University of Lisbon
 
 Teaching Theoretical-Practical classes, offered to all Department of Informatics Masters' Programs in the 2nd Semester.
@@ -47,6 +53,12 @@ Class focuses on more advanced topics such as Ensemble Learning, Markov Models, 
 Taught Theoretical-Practical classes, offered to 8 Masters Programs and 1 PhD Program in the 1st Semester.
 
 Class focuses on Supervised & Unsupervised Learning fundamentals.
+
+## Science Communication
+
+### Deep Learning Sessions Portugal <a target="_blank" href="https://www.youtube.com/watch?v=o9oEjnSjtPA"><i class="fab fa-youtube"></i></a>
+
+This talk focused on my Masters' Dissertation and EMNLP 2021 Paper: Shortcut Learning and Commonsense Reasoning. If you want to learn a bit more about Shortcut Learning, its presence in Commonsense Reasoning and what it could mean for NLP and cognitive AI, might be worth a watch.
 
 ## Publications
 
