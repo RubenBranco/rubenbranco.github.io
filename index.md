@@ -34,6 +34,12 @@ I am interested in many topics beyond these (like Physics, Psychology, etc.) and
 
 ## Teaching
 
+## 2023/2024
+
+### OutSystems Programming, Faculty of Sciences of the University of Lisbon
+
+Taught an OutSystems Module on Practical Aspects and Applications in OutSystems, deepening the student's knowledge of advanced topics within the tool. This course was offered by the Faculty under the UPskill IEFP program.
+
 ## 2021/2022
 
 ### Intelligent Systems, Faculty of Sciences of the University of Lisbon
@@ -56,6 +62,10 @@ Class focuses on Supervised & Unsupervised Learning fundamentals.
 
 ## Science Communication
 
+### Faculty of Medicine, University of Lisbon
+
+Invited lecture "Introduction to Deep Learning", given at the Faculty of Medicine of the University of Lisbon for the Information Systems and Applications in Health course of the Masters in Clinical Research.
+
 ### LITHME Whole Action Conference @ Jyväskylä, Finland
 
 This invited talk focused on my Masters' Dissertation and EMNLP 2021 Paper, regarding Shortcut Learning and Commonsense Reasoning. Additionally, potential future research paths in the effort to solve this issue and create more cognitively capable machines are discussed.
@@ -66,26 +76,27 @@ This invited talk focused on my Masters' Dissertation and EMNLP 2021 Paper: Shor
 
 ## Publications
 
-1. **Ruben Branco**, Diogo Soares, Andreia Martins, Joana Valente, Eduardo Castanho, Sara C. Madeira and Helena Aidos, 2023, "Investigating the impact of environmental data on ALS prognosis with survival analysis", In Working Notes of CLEF 2023 -- Conference and Labs of the Evaluation Forum.
-2. **Ruben Branco**, Joana Valente, Andreia Martins, Diogo Soares, Eduardo Castanho, Sara C. Madeira and Helena Aidos, 2023, "Survival analysis for multiple sclerosis: predicting risk of disease worsening", In Working Notes of CLEF 2023 -- Conference and Labs of the Evaluation Forum.
-3. Erica Tavazzi, Enrico Longato, [and 23 others, including **Ruben Branco**], 2023, "Artificial intelligence and statistical methods for stratification and prediction of progression in amyotrophic lateral sclerosis: A systematic review", Artificial Intelligence in Medicine, 102588.
-4. João Rodrigues, **Ruben Branco**, António Branco, 2022, "Transfer Learning of Lexical Semantic Families for Argumentative Discourse Units Identification", arXiv preprint arXiv:2209.02495.
-5. Luís Gomes, **Ruben Branco**, João Silva and António Branco, "Open and Inclusive Language Processing", in D. Fišer & A. Witt (Ed.), CLARIN: The Infrastructure for Language Resources (pp. 107-132) (book). doi: 10.1515/9783110767377-005
-6. **Ruben Branco**, Diogo F. Soares, Andreia S. Martins, Eleonora Auletta, Eduardo N. Castanho, Susana Nunes, Filipa Serrano, Rita T. Sousa, Catia Pesquita, Sara C. Madeira and Helena Aidos, "Hierarchical Modelling for ALS Prognosis: Predicting the Progression Towards Critical Events", In Working Notes of CLEF 2022 -- Conference and Labs of the Evaluation Forum.
-7. Susana Nunes, Rita T. Sousa, Filipa Serrano, **Ruben Branco**, Diogo F. Soares, Andreia S. Martins, Eleonora Auletta, Eduardo N. Castanho, Sara C. Madeira, Helena Aidos and Catia Pesquita, "Explaining Artificial Intelligence Predictions of Disease Progression with Semantic Similarity", In Working Notes of CLEF 2022 -- Conference and Labs of the Evaluation Forum.
-8. **Ruben Branco**, António Branco, João Silva and António Rodrigues, 2021, "Shortcutted Commonsense: Data Spuriousness in Deep Learning of Commonsense Reasoning", In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP).
-9. **Ruben Branco**, António Branco, João Silva and António Rodrigues, 2021, "Commonsense Reasoning: how do Neuro-only and hybrid Neuro-Symbolic approaches compare?", In Proceedings of the CIKM 2021 Workshops.
-10. António Branco, João Rodrigues, Malgorzata Salawa, **Ruben Branco** and Chakaveh Saedi, 2020, "Comparative Probing of Lexical Semantics Theories for Cognitive Plausibility and Technological Usefulness", In Proceedings of the 28th International Conference on Computational Linguistics. doi: 10.18653/v1/2020.coling-main.354
-11. Beatriz Lima, **Ruben Branco**, João Castanheira, Gustavo Fonseca and Catia Pesquita, 2020, "Learning reference alignments for ontology matching within and across domains", In OM@ISWC. 2020.
-12. João Rodrigues, **Ruben Branco**, João Silva and António Branco, 2020, "Reproduction and Revival of the Argument Reasoning Comprehension Task", In Proceedings, 12th Language Resources and Evaluation Conference (LREC2020), European Language Resources Association, Marseílle, France, 13-15 May 2020.
-13. António Branco, Sara Grilo, Márcia Bolrinha, Chakaveh Saedi, **Ruben Branco**, João Silva, Andreia Querido, Rita de Carvalho, Rosa Gaudio, Mariana Avelãs and Clara Pinto, 2020, "The MWN.PT WordNet for Portuguese: Projection, Validation, Cross-lingual Alignment and Distribution", In Proceedings, 12th Language Resources and Evaluation Conference (LREC2020), European Language Resources Association, Marseílle, France, 13-15 May 2020.
-14. Thierry Etchegoyhen, Borja Porras, [and 20 others, including **Ruben Branco**], 2020, "ELRI: A Decentralised Network of National Relay Stations to Collect, Prepare and Share Language Resources", in Proceedings of the 1st International Workshop on Language Technology Platforms, European Language Resources Association, Maseílle, France, May 2020.
-15. Małgorzata Salawa, António Branco, **Ruben Branco**, João Rodrigues and Chakaveh Saedi, 2019, "Whom to Learn From? Graph- vs. Text-based Word Embeddings", In Proceedings of the International Conference Recent Advances in Natural Language Processing, RANLP 2019. doi: 10.26615/978-954-452-056-4_120
-16. **Ruben Branco**, João Rodrigues, Chakaveh Saedi and António Branco, 2019, "Assessing Wordnets with WordNet Embeddings", In Proceedings, 10th Global WordNet Conference (GWC2019), Poland, 23-27 July 2019.
-17. Luís Gomes, Frederico Apolónia, **Ruben Branco**, João Ricardo Silva, António Branco, 2018, "Setting up the PORTULAN / CLARIN repository", In Proceedings, CLARIN Annual Conference (CLARIN2018), Pisa, 9 October 2018, pp.108-111.
-18. João Rodrigues, **Ruben Branco**, João Silva, Chakaveh Saedi, António Branco, 2018, "Predicting Brain Activation with WordNet Embeddings", In Proceedings, 56th Annual Meeting of the Association for Computational Linguistics (ACL2018), Workshop on Cognitive Aspects of Computational Language Learning and Processing (CogACLL), Melbourne, 19 July 2018. doi: 10.18653/v1/W18-2801
-19. Thierry Etchegoyhen, Borja Porras, [and 18 others, including **Ruben Branco**], 2018, "ELRI. European Language Resource Infrastructure", In Proceedings of the 21st Annual Conference of the European Association for Machine Translation, Alicante, Spain, 28-30 May 2018.
-20. António Branco, **Ruben Branco**, Chakaveh Saedi and João Silva 2018, "Browsing and Supporting Pluricentric Global Wordnet, or just your Wordnet of Interest", In Proceedings, 11th Language Resources and Evaluation Conference (LREC2018), European Language Resources Association, Myazaki, Japan, 9-11 May 2018, pp. 4562-4569.
+1. Andreia Martins, Daniela Amaral, Eduardo Castanho, Diogo Soares, **Ruben Branco**, Sara Madeira and Helena Aidos, 2024, "Predicting the Functional Rating Scale and Self-Assessment Status of ALS Patients with Sensor Data", In Working Notes of CLEF 2024 -- Conference and Labs of the Evaluation Forum.
+2. **Ruben Branco**, Diogo Soares, Andreia Martins, Joana Valente, Eduardo Castanho, Sara C. Madeira and Helena Aidos, 2023, "Investigating the impact of environmental data on ALS prognosis with survival analysis", In Working Notes of CLEF 2023 -- Conference and Labs of the Evaluation Forum.
+3. **Ruben Branco**, Joana Valente, Andreia Martins, Diogo Soares, Eduardo Castanho, Sara C. Madeira and Helena Aidos, 2023, "Survival analysis for multiple sclerosis: predicting risk of disease worsening", In Working Notes of CLEF 2023 -- Conference and Labs of the Evaluation Forum.
+4. Erica Tavazzi, Enrico Longato, [and 23 others, including **Ruben Branco**], 2023, "Artificial intelligence and statistical methods for stratification and prediction of progression in amyotrophic lateral sclerosis: A systematic review", Artificial Intelligence in Medicine, 102588.
+5. João Rodrigues, **Ruben Branco**, António Branco, 2022, "Transfer Learning of Lexical Semantic Families for Argumentative Discourse Units Identification", arXiv preprint arXiv:2209.02495.
+6. Luís Gomes, **Ruben Branco**, João Silva and António Branco, "Open and Inclusive Language Processing", in D. Fišer & A. Witt (Ed.), CLARIN: The Infrastructure for Language Resources (pp. 107-132) (book). doi: 10.1515/9783110767377-005
+7. **Ruben Branco**, Diogo F. Soares, Andreia S. Martins, Eleonora Auletta, Eduardo N. Castanho, Susana Nunes, Filipa Serrano, Rita T. Sousa, Catia Pesquita, Sara C. Madeira and Helena Aidos, "Hierarchical Modelling for ALS Prognosis: Predicting the Progression Towards Critical Events", In Working Notes of CLEF 2022 -- Conference and Labs of the Evaluation Forum.
+8. Susana Nunes, Rita T. Sousa, Filipa Serrano, **Ruben Branco**, Diogo F. Soares, Andreia S. Martins, Eleonora Auletta, Eduardo N. Castanho, Sara C. Madeira, Helena Aidos and Catia Pesquita, "Explaining Artificial Intelligence Predictions of Disease Progression with Semantic Similarity", In Working Notes of CLEF 2022 -- Conference and Labs of the Evaluation Forum.
+9. **Ruben Branco**, António Branco, João Silva and António Rodrigues, 2021, "Shortcutted Commonsense: Data Spuriousness in Deep Learning of Commonsense Reasoning", In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+10. **Ruben Branco**, António Branco, João Silva and António Rodrigues, 2021, "Commonsense Reasoning: how do Neuro-only and hybrid Neuro-Symbolic approaches compare?", In Proceedings of the CIKM 2021 Workshops.
+11. António Branco, João Rodrigues, Malgorzata Salawa, **Ruben Branco** and Chakaveh Saedi, 2020, "Comparative Probing of Lexical Semantics Theories for Cognitive Plausibility and Technological Usefulness", In Proceedings of the 28th International Conference on Computational Linguistics. doi: 10.18653/v1/2020.coling-main.354
+12. Beatriz Lima, **Ruben Branco**, João Castanheira, Gustavo Fonseca and Catia Pesquita, 2020, "Learning reference alignments for ontology matching within and across domains", In OM@ISWC. 2020.
+13. João Rodrigues, **Ruben Branco**, João Silva and António Branco, 2020, "Reproduction and Revival of the Argument Reasoning Comprehension Task", In Proceedings, 12th Language Resources and Evaluation Conference (LREC2020), European Language Resources Association, Marseílle, France, 13-15 May 2020.
+14. António Branco, Sara Grilo, Márcia Bolrinha, Chakaveh Saedi, **Ruben Branco**, João Silva, Andreia Querido, Rita de Carvalho, Rosa Gaudio, Mariana Avelãs and Clara Pinto, 2020, "The MWN.PT WordNet for Portuguese: Projection, Validation, Cross-lingual Alignment and Distribution", In Proceedings, 12th Language Resources and Evaluation Conference (LREC2020), European Language Resources Association, Marseílle, France, 13-15 May 2020.
+15. Thierry Etchegoyhen, Borja Porras, [and 20 others, including **Ruben Branco**], 2020, "ELRI: A Decentralised Network of National Relay Stations to Collect, Prepare and Share Language Resources", in Proceedings of the 1st International Workshop on Language Technology Platforms, European Language Resources Association, Maseílle, France, May 2020.
+16. Małgorzata Salawa, António Branco, **Ruben Branco**, João Rodrigues and Chakaveh Saedi, 2019, "Whom to Learn From? Graph- vs. Text-based Word Embeddings", In Proceedings of the International Conference Recent Advances in Natural Language Processing, RANLP 2019. doi: 10.26615/978-954-452-056-4_120
+17. **Ruben Branco**, João Rodrigues, Chakaveh Saedi and António Branco, 2019, "Assessing Wordnets with WordNet Embeddings", In Proceedings, 10th Global WordNet Conference (GWC2019), Poland, 23-27 July 2019.
+18. Luís Gomes, Frederico Apolónia, **Ruben Branco**, João Ricardo Silva, António Branco, 2018, "Setting up the PORTULAN / CLARIN repository", In Proceedings, CLARIN Annual Conference (CLARIN2018), Pisa, 9 October 2018, pp.108-111.
+19. João Rodrigues, **Ruben Branco**, João Silva, Chakaveh Saedi, António Branco, 2018, "Predicting Brain Activation with WordNet Embeddings", In Proceedings, 56th Annual Meeting of the Association for Computational Linguistics (ACL2018), Workshop on Cognitive Aspects of Computational Language Learning and Processing (CogACLL), Melbourne, 19 July 2018. doi: 10.18653/v1/W18-2801
+20. Thierry Etchegoyhen, Borja Porras, [and 18 others, including **Ruben Branco**], 2018, "ELRI. European Language Resource Infrastructure", In Proceedings of the 21st Annual Conference of the European Association for Machine Translation, Alicante, Spain, 28-30 May 2018.
+21. António Branco, **Ruben Branco**, Chakaveh Saedi and João Silva 2018, "Browsing and Supporting Pluricentric Global Wordnet, or just your Wordnet of Interest", In Proceedings, 11th Language Resources and Evaluation Conference (LREC2018), European Language Resources Association, Myazaki, Japan, 9-11 May 2018, pp. 4562-4569.
 
 ## Contact
 
